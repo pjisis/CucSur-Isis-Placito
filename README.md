@@ -1,2 +1,2 @@
 # CucSur-Isis-Placito
-Prueba de taller para gestión de proyectos con gib
+Prueba de taller para gestión de proyectos con git
